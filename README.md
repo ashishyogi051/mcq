@@ -52,6 +52,4 @@ Here is a demo video for the project.
 
 https://user-images.githubusercontent.com/83747548/234657453-7f40c25c-8c90-4a05-82ca-df60728b2850.mp4
 
-## Author
-- Linkedin - [Sai Charan](https://www.linkedin.com/in/saicharan0662/)
-- Email - acharan@iiitmanipur.ac.in
+
